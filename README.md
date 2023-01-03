@@ -1,2 +1,2 @@
 # itaiboss.github.io
-My websitr
+My website
